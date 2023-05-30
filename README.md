@@ -7,6 +7,8 @@
 - [Alt Attributes](alt-attributes)
 - [Sequential Order](#Sequential-order)
 - [Title](#Title)
+- [Link](#Link)
+- [Resources](#Resources)
 
 ## Semantic-elements
 
@@ -28,3 +30,10 @@ code in the html and css file following a sequential order to make it easy to re
 
 Title of the page describing the website is about and the navigation location of the webiste.
 
+## Website Link
+
+The website can be viewed by clicking on the following link:
+https://afnansarwar.github.io/urban-octo-telegram-wk1-challenge/
+
+## Resources
+index.html contains the html code, css file is in assets foloder along with all the supported images 
