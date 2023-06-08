@@ -33,7 +33,10 @@ Title of the page describing the website is about and the navigation location of
 ## Website Link
 
 The website can be viewed by clicking on the following link:
-https://afnansarwar.github.io/urban-octo-telegram-wk1-challenge/
+[https://afnansarwar.github.io/urban-octo-telegram-wk1-challenge/](https://afnansarwar.github.io/professional-portfolio/)
+
+The repository can be viewed by clicking on the following link:
+https://github.com/afnansarwar/professional-portfolio.git
 
 ## Resources
 index.html contains the html code, css file is in assets foloder along with all the supported images 
